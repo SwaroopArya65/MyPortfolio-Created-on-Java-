@@ -68,6 +68,14 @@
 		    <p>My Introduction & Services</p>
 	  	</div>
 	</div>
+	
+	<!-- About and Services Section start -->
+	<div class="aboutwrapper">
+		<div class="about">
+			<h1>About Us</h1>
+			<p>Introduction about me in details</p>
+		</div>
+	</div>
     <script src="JS/portfolio.js"></script>
 
 </body>

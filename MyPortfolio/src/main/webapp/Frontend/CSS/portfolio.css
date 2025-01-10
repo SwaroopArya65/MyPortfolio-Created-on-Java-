@@ -545,6 +545,30 @@ body.dark .search-field i{
     color: var(--text-color);
 }
 
+/*About Us page*/
+
+.aboutwrapper{
+	position: relative;
+    height: 50%;
+    max-width: 1300px;
+    width: 100%;
+    /*background-color: var(--nav-color);*/
+    background: linear-gradient(to right #26d0ce,  #1a2980);
+    margin: 0 auto;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.aboutwrapper.about{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+
+
 @media (max-width: 790px) {
     nav .nav-bar .sidebarOpen{
         display: block;
