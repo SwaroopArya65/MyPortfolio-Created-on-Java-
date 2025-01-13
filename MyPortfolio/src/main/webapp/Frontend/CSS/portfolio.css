@@ -561,10 +561,35 @@ body.dark .search-field i{
     justify-content: space-between;
 }
 
-.aboutwrapper.about{
-	display: flex;
-	justify-content: space-between;
-	width: 100%;
+.about{
+	position: relative;
+    height: 100%;
+    max-width: 1300px;
+    width: 100%;
+    margin: 180px auto 0px auto;
+    padding: 0 30px;
+}
+
+.about .title{
+	font-family: "Playfair Display", "serif";
+	font-size: 20px;
+	letter-spacing: 1px;
+	color: var(--text-colorb);
+}
+
+.about .title span{
+	font-size: 35px;
+	font-family: "Playfair Display", "serif";
+	letter-spacing: 1px;
+	color: var(--text-colorb);
+	font-weight: bold;
+}
+
+.about .subtitle{
+	font-family: "Public Sans", "serif";
+	font-size: 20px;
+	letter-spacing: 1px;
+	color: var(--text-colorb);
 }
 
 

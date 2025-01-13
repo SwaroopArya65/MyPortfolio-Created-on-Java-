@@ -72,5 +72,11 @@
 		    <p>Acdemic Background</p>
 	  	</div>
 	</div>
+	
+	<!-- Details about My resume -->
+	<div class="about">
+		<h1 class="title">Hello, I am <span>Arya Swaroop</span>.</h1>
+		<p class="subtitle">Full stack Developer.</p>
+	</div>
 </body>
 </html>
